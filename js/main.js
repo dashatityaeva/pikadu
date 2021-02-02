@@ -346,7 +346,7 @@ const init = () => {
     }
 
     if (text.value.length < 60) {
-      alert('Короткий заголовок');
+      alert('Короткий пост');
       return;
     }
 
